@@ -1,0 +1,60 @@
+opening_name,freq,avg_elo,white_win,black_win,game_draw
+Irregular Openings,169,817,0.43195,0.53254,0.0355
+Larsen's Opening,38,795,0.60526,0.39474,0
+Bird's Opening,7,842,0.28571,0.57143,0.14286
+Zukertort Opening,62,808,0.41935,0.54839,0.03226
+"Zukertort Opening, 2...Nf6",4,974,0.25,0.5,0.25
+Réti Opening,24,821,0.16667,0.79167,0.04167
+King's Indian attack (Barcza system),1,664,0,0,1
+English Opening,45,840,0.46667,0.46667,0.06667
+"English Opening, Sicilian Reversed",1,834,1,0,0
+"Queen's Pawn Game, Irregular Defences",956,831,0.46444,0.48849,0.04707
+"Queen's Pawn Game, Wade Defense",79,817,0.51899,0.41772,0.06329
+Old Benoni defense,56,878,0.51786,0.44643,0.03571
+"Queen's Pawn Game, Trompowsky Attack",136,840,0.52941,0.44118,0.02941
+"Queen's Pawn Game, Torre Attack",2,903,0,1,0
+"King's Indian, East Indian defense",1,795,1,0,0
+Dutch defense,31,850,0.3871,0.58065,0.03226
+"King's Pawn Opening, Irregular Defenses",54,684,0.68519,0.31481,0
+Scandinavian Defense (Center-Counter Defense),58,865,0.46552,0.43103,0.10345
+Alekhine's defense,1,631,1,0,0
+Robatsch (Modern) defense,962,844,0.48129,0.48337,0.03534
+Pirc defense,9,770,0.44444,0.44444,0.11111
+"Caro-Kann Defense, Irregular Responses",6,892,0.33333,0.66667,0
+Caro-Kann defense,4,786,0.5,0.5,0
+"Caro-Kann, Exchange variation",1,931,1,0,0
+"Sicilian defense, Irregular Responses",6,805,1,0,0
+"Sicilian, Grand Prix attack and Smith-Morra Gambit",1,870,0,1,0
+Sicilian defense,2,1094,0.5,0.5,0
+"French Defense, Irregular Responses",69,823,0.50725,0.43478,0.05797
+"French, Exchange Variation",6,900,0.66667,0.33333,0
+"French, Advance Variation",14,821,0.5,0.42857,0.07143
+"French, Paulsen Variation",6,763,0.33333,0.33333,0.33333
+French Defense,1,997,1,0,0
+"Open Game, Irregular Responses",36,672,0.25,0.69444,0.05556
+Center Game,5,744,0.2,0.8,0
+Bishop's Opening,6,638,0.5,0.5,0
+"Bishop's Opening, Berlin Defense",1,1173,1,0,0
+Vienna Game,4,781,0.5,0.5,0
+"Vienna Game, Falkbeer Variation",5,654,0.6,0.4,0
+King's Gambit,1,642,1,0,0
+King's Knight Opening,26,761,0.53846,0.38462,0.07692
+Philidor Defense,11,794,0.36364,0.63636,0
+"Petrov's Defense, Classical Variation",13,781,0.61538,0.38462,0
+King's Pawn Game,33,723,0.42424,0.48485,0.09091
+Scotch Game,16,672,0.4375,0.5625,0
+Three Knights Game,21,803,0.57143,0.38095,0.04762
+"Four Knights Game, Scotch Variation",19,886,0.47368,0.47368,0.05263
+Giuoco Piano,1,1091,1,0,0
+Two Knights Defense,6,834,0.5,0.5,0
+"Ruy Lopez, Exchange Variation",2,914,0.5,0.5,0
+"Closed Game, Irregular Responses",929,822,0.50161,0.44349,0.0549
+"Queen's Pawn Game, 2. Nf3",34,774,0.5,0.47059,0.02941
+Queen's Pawn Game,2,730,1,0,0
+Queen's Gambit,6,822,0.66667,0.16667,0.16667
+QGD; Chigorin defense,2,932,0.5,0.5,0
+QGD; Slav Defense,1,766,0,1,0
+Queen's Gambit Accepted,3,636,0,1,0
+Queen's Gambit Declined,6,842,0.66667,0.16667,0.16667
+King's Indian Defense,1,1147,1,0,0
+"King's Indian Defense, 3.Nc3",1,739,0,1,0

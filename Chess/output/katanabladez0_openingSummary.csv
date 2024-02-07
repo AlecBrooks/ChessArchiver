@@ -1,0 +1,142 @@
+opening_name,freq,avg_elo,white_win,black_win,game_draw
+Irregular Openings,306,1467,0.44771,0.50654,0.04575
+Larsen's Opening,25,1488,0.52,0.44,0.04
+Bird's Opening,15,1424,0.6,0.33333,0.06667
+"Bird's Opening, 1...d5",10,1520,0.2,0.6,0.2
+Zukertort Opening,39,1428,0.5641,0.4359,0
+"Zukertort Opening, 2...Nf6",7,1282,0.42857,0.42857,0.14286
+Réti Opening,11,1379,0.36364,0.63636,0
+King's Indian attack (Barcza system),8,1520,0.625,0.375,0
+"King's Indian Attack, 3. Bg2",1,1467,1,0,0
+"Réti Opening, without: 2...c6, 2...e6",12,1383,0.41667,0.58333,0
+English Opening,74,1450,0.45946,0.43243,0.10811
+"English, Caro-Kann defensive system",3,1552,1,0,0
+"English, 1...Nf6 (Anglo-Indian defense)",11,1518,0.45455,0.54545,0
+"English Opening, Hedgehog Defense",1,1470,1,0,0
+"English Opening, Sicilian Reversed",1,1614,0,1,0
+"English Opening, Symmetrical variation",4,1470,0.5,0.5,0
+"English Opening, Symmetrical, Benoni formation",1,1414,0,1,0
+"English Opening, Symmetrical",6,1548,0.33333,0.66667,0
+"Queen's Pawn Game, Irregular Defences",318,1442,0.47484,0.50314,0.02201
+"Queen's Pawn Game, Wade Defense",21,1353,0.33333,0.61905,0.04762
+Old Benoni defense,38,1386,0.39474,0.5,0.10526
+"Queen's Pawn Game, Trompowsky Attack",26,1365,0.46154,0.53846,0
+"Queen's Pawn Game, Torre Attack",11,1385,0.45455,0.54545,0
+"King's Indian, East Indian defense",2,1381,0.5,0.5,0
+"King's Indian, Fianchetto without c4",1,1758,1,0,0
+Queen's Pawn Game (1... Nf6 2. c4),10,1417,0.5,0.5,0
+Budapest defense,1,1482,1,0,0
+Old Indian Defense,2,1452,0.5,0.5,0
+Benoni Defense,1,1759,1,0,0
+Benoni defense,1,1598,0,1,0
+Dutch defense,25,1434,0.56,0.32,0.12
+Dutch with 2.c4 & 3.Nc3,3,1385,0.33333,0.66667,0
+"King's Pawn Opening, Irregular Defenses",189,1490,0.53439,0.42857,0.03704
+Scandinavian Defense (Center-Counter Defense),238,1452,0.4958,0.46639,0.03782
+Alekhine's defense,65,1440,0.56923,0.41538,0.01538
+"Alekhine's defense, Modern variation, 4...Bg4",1,1629,0,1,0
+Robatsch (Modern) defense,111,1396,0.6036,0.38739,0.00901
+Pirc defense,61,1446,0.60656,0.34426,0.04918
+"Pirc, Classical (Two knights) system",4,1456,0.5,0.5,0
+"Pirc, Austrian attack",1,1640,0,1,0
+"Caro-Kann Defense, Irregular Responses",86,1418,0.36047,0.60465,0.03488
+Caro-Kann defense,57,1441,0.47368,0.50876999999999994,0.01754
+"Caro-Kann, Exchange variation",34,1499,0.38235,0.58824,0.02941
+"Caro-Kann, Classical variation",4,1587,0.75,0,0.25
+"Sicilian defense, Irregular Responses",58,1376,0.43103,0.53448,0.03448
+"Sicilian, Grand Prix attack and Smith-Morra Gambit",102,1440,0.58824,0.40196,0.0098
+"Sicilian, Alapin's variation (2.c3)",25,1382,0.4,0.56,0.04
+"Sicilian, Closed",139,1548,0.53237,0.43885,0.02878
+Sicilian defense,250,1467,0.548,0.416,0.036
+"Sicilian, O'Kelly variation",3,1473,0.66667,0.33333,0
+"Sicilian, Nimzovich-Rubinstein variation",4,1482,0.5,0.25,0.25
+"Sicilian, Nimzovich-Rossolimo attack (with ...g6, without ...d6)",3,1368,0.33333,0.66667,0
+"Sicilian, Sveshnikov (Lasker-Pelikan) variation",22,1453,0.59091,0.36364,0.04545
+"Sicilian, Accelerated Fianchetto, Exchange variation",8,1449,0.625,0.375,0
+"Sicilian, Kan, 5.Bd3",1,1578,1,0,0
+"Sicilian, Kan, 5.Nc3",2,1382,1,0,0
+"Sicilian, Taimanov variation",2,1324,0.5,0.5,0
+Sicilian,53,1418,0.41509,0.54717,0.03774
+"Sicilian, Canal-Sokolsky attack",5,1479,1,0,0
+"Sicilian, Richter-Rauzer",1,1604,1,0,0
+"Sicilian, Dragon variation",7,1458,0.28571,0.57143,0.14286
+"Sicilian, Dragon, 6.Be3",3,1616,1,0,0
+"Sicilian, Dragon, Yugoslav attack",2,1569,0,1,0
+"Sicilian, Dragon, Yugoslav attack, 9.Bc4",1,1317,1,0,0
+"Sicilian, Sozin attack",2,1752,0,1,0
+"Sicilian, Najdorf",13,1500,0.38462,0.61538,0
+"Sicilian, Najdorf, Zagreb (Fianchetto) variation",2,1522,1,0,0
+"Sicilian, Najdorf, 6.f4",1,1518,1,0,0
+"Sicilian, Najdorf, 6.Bg5",2,1562,1,0,0
+"Sicilian, Najdorf, 6...e6",1,1476,1,0,0
+"French Defense, Irregular Responses",512,1472,0.53125,0.43164,0.03711
+"French, Exchange Variation",153,1487,0.45098,0.53595,0.01307
+"French, Advance Variation",170,1478,0.38824,0.59412,0.01765
+"French, Tarrasch",7,1565,0.57143,0.42857,0
+"French, Tarrasch, Closed Variation",2,1527,0.5,0.5,0
+"French, Tarrasch, Closed Variation, Main line",1,1746,1,0,0
+"French, Tarrasch, Open Variation",8,1487,0.625,0.375,0
+"French, Paulsen Variation",26,1460,0.57692,0.42308,0
+French Defense,4,1518,0.5,0.5,0
+"French, Winawer (Nimzovich) Variation",19,1502,0.52632,0.36842,0.10526
+"French, Winawer, Advance Variation",8,1525,0.375,0.5,0.125
+"Open Game, Irregular Responses",26,1383,0.5,0.5,0
+Center Game,19,1444,0.47368,0.52632,0
+Bishop's Opening,24,1424,0.41667,0.58333,0
+"Bishop's Opening, Berlin Defense",4,1358,0.75,0.25,0
+Vienna Game,6,1413,0.66667,0.33333,0
+"Vienna Game, Falkbeer Variation",8,1407,0.25,0.625,0.125
+King's Gambit,8,1423,0.25,0.75,0
+"King's Gambit Declined, Falkbeer, 5. dxe4",1,1392,0,1,0
+King's Gambit Accepted,3,1389,1,0,0
+"King's Gambit Accepted, Cunningham Defense",2,1338,0.5,0.5,0
+King's Knight Opening,94,1447,0.5,0.46809,0.03191
+Philidor Defense,200,1466,0.475,0.47,0.055
+"Petrov's Defense, Classical Variation",48,1437,0.58333,0.375,0.04167
+King's Pawn Game,122,1452,0.43443,0.54098,0.02459
+Scotch Game,4,1430,1,0,0
+Three Knights Game,6,1409,0.33333,0.66667,0
+"Four Knights Game, Scotch Variation",12,1426,0.5,0.41667,0.08333
+"Four Knights Game, Spanish Variation",3,1521,0.33333,0.66667,0
+Giuoco Piano,86,1516,0.5,0.46512,0.03488
+Two Knights Defense,130,1460,0.54615,0.42308,0.03077
+Ruy Lopez,6,1350,0.5,0.33333,0.16667
+"Ruy Lopez, Bird's Defense",3,1372,0.66667,0.33333,0
+"Ruy Lopez, Old Steinitz Defense",12,1407,0.41667,0.58333,0
+"Ruy Lopez, Schliemann Defense",1,1506,1,0,0
+"Ruy Lopez, Classical (Cordel) Defense",3,1362,0.33333,0.66667,0
+"Ruy Lopez, Berlin Defense",2,1530,0.5,0.5,0
+"Ruy Lopez, Berlin Defense, 4.O-O, d6",2,1286,0,0.5,0.5
+"Ruy Lopez, Exchange Variation",9,1422,0.66667,0.22222,0.11111
+"Ruy Lopez, Exchange Variation, 5.O-O",2,1378,0.5,0.5,0
+"Ruy Lopez, Morphy Defense",1,1360,0,1,0
+"Closed Game, Irregular Responses",79,1405,0.48101,0.46835,0.05063
+Richter-Veresov Attack,1,1574,1,0,0
+"Queen's Pawn Game, 2. Nf3",63,1401,0.46032,0.52381,0.01587
+"Torre Attack, Tartakower variation",1,1474,0,1,0
+Queen's Pawn Game,33,1443,0.57576,0.33333,0.09091
+"Queen's Pawn Game, Zukertort variation",1,1327,1,0,0
+Queen's Gambit,13,1415,0.46154,0.46154,0.07692
+QGD; Chigorin defense,5,1441,1,0,0
+QGD; Albin Countergambit,1,1514,1,0,0
+QGD; Slav Defense,23,1470,0.65217,0.34783,0
+"QGD; Slav defense, 3.Nf3",2,1370,0.5,0.5,0
+"QGD; Slav defense, Exchange variation",1,1431,0,1,0
+"QGD; Slav, 4.Nc3",3,1615,1,0,0
+Queen's Gambit Accepted,17,1417,0.35294,0.64706,0
+"QGA, 3.Nf3",1,1410,1,0,0
+"QGA, 4.Nc3",1,1456,0,1,0
+Queen's Gambit Declined,67,1494,0.59701,0.37313,0.02985
+"QGD, 3.Nc3",9,1429,0.55556,0.44444,0
+QGD; 3...Nf6,6,1378,0.16667,0.83333,0
+QGD; 4.Bg5 Be7,1,1472,1,0,0
+QGD; 6.Nf3,1,1292,1,0,0
+"Grünfeld, 5.e3",1,1495,0,1,0
+Queen's Pawn Game 3.Nf3,1,1321,1,0,0
+Nimzo-Indian Defense,4,1575,0.75,0.25,0
+"Nimzo-Indian, Three knights variation",1,1310,1,0,0
+"Nimzo-Indian, 4.e3 c5",1,1344,1,0,0
+King's Indian Defense,6,1336,0.33333,0.66667,0
+"King's Indian Defense, 3.Nc3",12,1500,0.41667,0.5,0.08333
+"King's Indian, 4.e4",2,1479,0,1,0
+"King's Indian, 5.Nf3",2,1671,0.5,0.5,0
