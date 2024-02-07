@@ -1,12 +1,7 @@
-#https://api.chess.com/pub/player/katanabladez0/games/archives
-#https://api.chess.com/pub/player/Finished_Milk/games/archives
-#https://api.chess.com/pub/player/katanabladez0/games/2008/06
-#https://www.kaggle.com/datasets/jramponi/chess-mapping-file-elo-code-to-opening-name
-
-#install.packages("tidyverse")
-#install.packages("jsonlite")
-#install.packages("stringr")
-#install.packages("data.table")
+install.packages("tidyverse")
+install.packages("jsonlite")
+install.packages("stringr")
+install.packages("data.table")
 
 library(jsonlite)
 library(tidyverse)
